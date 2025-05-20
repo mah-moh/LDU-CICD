@@ -1,0 +1,6 @@
+@Ludu.User.API_HostAddress = http://localhost:5012
+
+GET {{Ludu.User.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
